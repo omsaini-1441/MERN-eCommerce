@@ -2,7 +2,7 @@
 
 Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express.js, React, Node.js) Stack. This project provides a robust and full-featured online shopping platform with various functionalities to enhance the user experience.
 
-
+Demo : https://scribehow.com/shared/Add_Item_to_Cart_and_Checkout_Tutorial__9aFG8bNnTDi5KvpBA-6k3g
 
 ## Features🎬
 
